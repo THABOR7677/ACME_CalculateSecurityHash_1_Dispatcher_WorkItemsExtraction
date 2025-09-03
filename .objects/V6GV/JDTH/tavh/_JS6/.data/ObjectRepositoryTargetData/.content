@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="z9pLYYTg4EKz_ba8inkKSA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/login" CVScreenId="2dc2ebe4-0bd3-42eb-837f-953431d91138" CvElementArea="466, 641, 63, 36" CvTextArea="480, 652, 36, 16" CvTextArgument="Login" CvType="Button" DesignTimeRectangle="468, 642, 60, 34" DesignTimeScaleFactor="1" ElementType="Button" FuzzySelectorArgument="&lt;webctrl tag='BUTTON' type='submit' class='btn btn-primary' aaname='                             Login                         ' check:innerText='Login' /&gt;" Guid="24e81d21-ed2c-4020-8457-f54422f6d9f2" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='p5eBIpd6' title='ACME System 1 - Log In' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="161968d9e8014d8d4d410b892dd168a7.png" xmlns="">0Gl3Dv0Fc2UWyhAmvrc8Akw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
